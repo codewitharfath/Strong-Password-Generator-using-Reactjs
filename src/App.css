@@ -1,0 +1,52 @@
+.generated-password{
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: aliceblue;
+    padding: 20px;
+}
+.generated-password h1{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+input[type="number"]{
+    margin-top: 5px;
+    padding: 10px;
+    width: 90%;
+    margin-bottom: 20px;
+}
+input[type="checkbox"]{
+    font-size: 10px;
+   
+}
+
+label{
+    font-size: 22px;
+
+}
+.input-check{
+    margin-bottom: 20px;
+}
+.btn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: none;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 23px;
+}
+.password-generated{
+    display: flex;
+}
+input[type="text"]{
+    width: 90%;
+    padding: 10px;
+}
+.copy{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
